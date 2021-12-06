@@ -5,7 +5,9 @@ Link: https://jump.jhe06.repl.co
 Character Movement
 
  Left:    left arrow key
+ 
  Right:   right arrow key
+ 
  Jump:    space key
 
 Tips:
