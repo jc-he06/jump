@@ -8,7 +8,7 @@ Character Movement
  
  Right:   right arrow key
  
- Jump:    space key
+ Jump:      space key
 
 Tips:
 Prize and Score:
