@@ -14,6 +14,7 @@ Character Movement
 
 
 Tips:
+
 -- Prize and Score:
 
 - The score is the numbers of coins you collect.
